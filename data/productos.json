@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Producto de prueba 2222",
+    "description": "Este es un producto de prueba 2222",
+    "code": "TEST122223",
+    "price": 400,
+    "stock": 10,
+    "category": "prueba2",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Producto de prueba",
+    "description": "Este es un producto de prueba ",
+    "code": "TEST123",
+    "price": 100,
+    "stock": 10,
+    "category": "prueba",
+    "status": true
+  }
+]
